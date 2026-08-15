@@ -1,0 +1,23 @@
+#Introduction to Cyber Security
+
+## Day 1
+
+###Intrtoduction
+
+On the first day of my journey, we discussed the infrastructure to cybersecurity and the many different types of attacks:
+Password attacks, IoT-based attacks, DDOS attacks, Phishing attacks, SQL Injection attacks, Supply Chain attacks and Ransomware attacks.
+
+I will list below my understanding of each attack as we discussed them in our class.
+
+Password Attacks: Where attackers obtain passwords.
+IoT-Based Attacks: IoT (Internet of Things) a didgital asset that connects to the internet such as IP cameras, Intruder alarm systems etc. where the attack is carried out through these devices.
+DDOS Attacks: A network stress attack whrere the attacker will send massive amount of data that the target will not be able to handle the load.
+Phishing Attacks: Is where the attacker will deceive individuals to reveal sensitive information or take the opportunity to install malware by pretending to be a trusted source.
+SQL Injection Attacks: Critical web security vulnerability where malicious SQL code is inserted into an application database query.
+Supply Chain Attacks: When attackers compromise a trusted third-party vedor, software provider or service to gain access to multiple downstream organisations.
+Ransomeware Attacks: Encrypts data to all internal networks, locking users out of their system.
+
+###Data Breach
+A data breach, is where unauthorised access and disclosure of data impacting:
+
+
